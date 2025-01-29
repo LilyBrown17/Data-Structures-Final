@@ -1,0 +1,15 @@
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\bin\Debug\net8.0\ds1-solution.exe
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\bin\Debug\net8.0\ds1-solution.deps.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\bin\Debug\net8.0\ds1-solution.runtimeconfig.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\bin\Debug\net8.0\ds1-solution.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\bin\Debug\net8.0\ds1-solution.pdb
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.AssemblyInfoInputs.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.AssemblyInfo.cs
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.csproj.CoreCompileInputs.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.sourcelink.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\refint\ds1-solution.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.pdb
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ds1-solution.genruntimeconfig.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-solution\obj\Debug\net8.0\ref\ds1-solution.dll

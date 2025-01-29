@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ux9od5QkzI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilye\\Documents\\School\\CSE 212\\fa24-final-project-LilyBrown17\\ds3-solution\\ds3-solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilye\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\lilye\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\lilye\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\lilye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

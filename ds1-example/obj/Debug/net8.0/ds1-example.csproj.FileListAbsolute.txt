@@ -1,0 +1,15 @@
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\bin\Debug\net8.0\ds1-example.exe
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\bin\Debug\net8.0\ds1-example.deps.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\bin\Debug\net8.0\ds1-example.runtimeconfig.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\bin\Debug\net8.0\ds1-example.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\bin\Debug\net8.0\ds1-example.pdb
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.AssemblyInfoInputs.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.AssemblyInfo.cs
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.csproj.CoreCompileInputs.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.sourcelink.json
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\refint\ds1-example.dll
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.pdb
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ds1-example.genruntimeconfig.cache
+C:\Users\lilye\Documents\School\CSE 212\fa24-final-project-LilyBrown17\ds1-example\obj\Debug\net8.0\ref\ds1-example.dll
